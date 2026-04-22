@@ -1,0 +1,19 @@
+{
+  "name": "Casino de Fréjus",
+  "short_name": "Casino de Fréjus",
+  "theme_color": "",
+  "background_color": "#0E1D2E",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1776858464-5593-8444-favicon.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
